@@ -1,1 +1,2 @@
-# My solution to SQL Exercise
+## My solution to SQL Exercise
+#### Only for study use, not for any other use
